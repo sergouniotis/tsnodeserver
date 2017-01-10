@@ -1,0 +1,15 @@
+{
+  "name": "tsnodeserver",
+  "version": "0.0.1",
+  "description": "A tsergouniotis server implementation with nodejs",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "finalhandler": "0.5.1",
+    "router": "1.1.4"
+  },
+  "author": "Thanasis Sergouniotis",
+  "license": "GNU"
+}
